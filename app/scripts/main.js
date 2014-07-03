@@ -1,9 +1,5 @@
 // $(document).ready(function() {
 
-// $.( "ajax/zappos.com/womens-clothing", function( data ) {
-//   $( ".result" ).html( data );
-//   alert( "Load was performed." );
-// });	
 
 var navArray = ['<a href=index.html>Home</a>', '<a href=contact.html>Contact</a>', '<a href=portfolio.html>Portfolio</a>'];
 
